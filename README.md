@@ -3,6 +3,8 @@
 It's a C# library that adds extension methods to strings to do a couple cool things.
 
 ### What It Does
+This library (when provided with a string obviously) will allow the programmer to count the # of words in a string or get the first letter of each word.<br/>
+This can be useful if you're trying to make a program that tells the user how many words they've typed.
 ```csharp
 
 using StringCounter;
